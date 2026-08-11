@@ -1,5 +1,5 @@
 - Fullstack Solana Engineer.
-- 📫 You can reach me on X at x.com/tsmboa, on Telegram at t.me/tsmboa0.
+- 📫 You can reach me on X at x.com/tsmboa, on Telegram at t.me/tsmboa1.
 
 <!---
 tsmboa0/tsmboa0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
