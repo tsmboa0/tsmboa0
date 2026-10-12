@@ -1,4 +1,4 @@
-- Fullstack Solana Engineer.
+- B.Eng Mechatronics Engineering, Embedded systems engineer, Fullstack blockchain engineer (Solana & EVM).
 - 📫 You can reach me on X at [tsmboa](https://x.com/tsmboa), on Telegram at [tsmboa1](https://t.me/tsmboa1).
 
 <!---
